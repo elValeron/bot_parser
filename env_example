@@ -1,0 +1,13 @@
+API_ID=<api_id> - получить и посмотреть можно на сранице telegram.org/apps
+API_HASH=<api_hash> - получить и посмотреть можно на сранице telegram.org/apps
+PHONE=<phone_number> - номер телефона к которому привязан бот
+TOKEN=<token> - токен бота привязанного к номему
+
+DB_HOST = хост для подключения postgres
+DB_PORT = порт для подключения к postgres
+POSTGRES_USER = пользователь для подключения к postgres
+POSTGRES_PASSWORD = пароль пользователя
+POSTGRES_DB = имя postgres базы
+DATABASE_URL = использовать исключительно для дебага, переменная для подключения к sqlite
+
+SERVER_PORT = порт на котором будет крутиться сервер prometheus
